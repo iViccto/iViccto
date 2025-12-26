@@ -65,12 +65,6 @@ Desenvolvo projetos que unem **eletrônica, programação e web**, focados em **
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iViccto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViccto&layout=compact&theme=dark)
-
----
 
 ## 📫 Contato
 
