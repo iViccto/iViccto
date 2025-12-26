@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Vitor (iViccto)
 
 🚀 **Especialista em Automação, Eletrônica e Sistemas IoT**  
+
 💻 Desenvolvedor Web | 🌐 Integração Hardware + Software  
+
 🇧🇷 Brasil
 
 Sou apaixonado por tecnologia, automação e soluções inteligentes.  
