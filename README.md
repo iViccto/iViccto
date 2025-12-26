@@ -72,6 +72,7 @@ Desenvolvo projetos que unem **eletrônica, programação e web**, focados em **
 
 📧 **Email:** (Privado)  
 📷 **Instagram:** (Privado)
+
 🌐 **GitHub:** https://github.com/iViccto  
 
 ---
