@@ -1,8 +1,8 @@
-# 👩🏻‍💻 iViccto Vitor
+# 👨‍💻 iViccto Vitor
 
-**`Desenvolvedora FullStack`**
+**`Especialista em automação & Desenvolvedor WEB`**
 
-Me chamo Vitor, tenho 19 anos, sou Brasileiro.".
+Me chamo Vitor, tenho 19 anos, sou Brasileiro, sou especialista em automação e em placas eletronicas. Atualmente desenvolvo sistemas e projetos para controle e gestao IoT. ".
 
 
 ---
