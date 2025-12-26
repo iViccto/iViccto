@@ -1,128 +1,83 @@
-# 👨‍💻 iViccto Vitor
+# 👋 Olá, eu sou o Vitor (iViccto)
 
-**`Especialista em automação & Desenvolvedor WEB`**
+🚀 **Especialista em Automação, Eletrônica e Sistemas IoT**  
+💻 Desenvolvedor Web | 🌐 Integração Hardware + Software  
+🇧🇷 Brasil
 
-Me chamo Vitor, tenho 19 anos, sou Brasileiro, sou especialista em automação e em placas eletronicas. Atualmente desenvolvo sistemas e projetos para controle e gestao IoT. ".
-
+Sou apaixonado por tecnologia, automação e soluções inteligentes.  
+Desenvolvo projetos que unem **eletrônica, programação e web**, focados em **controle, monitoramento e gestão de sistemas**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Áreas de Atuação
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- 🔌 Automação Residencial e Industrial  
+- 🌐 Internet das Coisas (IoT)  
+- ⚙️ ESP32 / ESP8266 / Microcontroladores  
+- 📊 Sistemas Web para Monitoramento  
+- 🗄️ Integração com Banco de Dados  
+- 📡 Comunicação HTTP, APIs e Web Servers  
+- 🖥️ Dashboards em Tempo Real  
 
-<br/>
-<br/>
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
+### 💻 Front-end
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
+
+### ⚙️ Back-end
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+
+### 🔧 Hardware & IoT
+- ESP32 / ESP8266  
+- Sensores (IR, Relé, RPM, etc.)  
+- Displays LCD / I2C  
+- Comunicação HTTP / JSON  
+- Web Server embarcado  
+
+### 🧰 Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+
+---
+
+## 📂 Projetos
+
+🔹 Sistemas de monitoramento de equipamentos  
+🔹 Controle de relés via Web  
+🔹 Dashboards com dados em tempo real  
+🔹 Automação com ESP32 + PHP + MySQL  
+🔹 Gestão de tempo, status e produtividade  
+
+> Em constante desenvolvimento 🚧  
+> Novos projetos serão adicionados em breve.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iViccto&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iViccto&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+
+📧 **Email:** (adicione aqui se quiser)  
+📷 **Instagram:** @ivicc.to  
+🌐 **GitHub:** https://github.com/iViccto  
+
+---
+
+⭐ Se curtir meus projetos, não esquece de deixar uma estrela!
