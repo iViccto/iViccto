@@ -52,6 +52,8 @@ Desenvolvo projetos que unem **eletrônica, programação e web**, focados em **
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-SA--MP-blue?style=flat)
+
 ---
 
 ## 📂 Projetos
