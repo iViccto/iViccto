@@ -47,6 +47,10 @@ Desenvolvo projetos que unem **eletrônica, programação e web**, focados em **
 - Displays LCD / I2C  
 - Comunicação HTTP / JSON  
 - Web Server embarcado  
+- Eletricidade Industrial
+- Controlador Lógico Programável (CLP)
+- Inversor de Frequência
+- Soft-Starter
 
 ### 🧰 Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
